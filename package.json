@@ -1,0 +1,9 @@
+{
+  "name": "inboard-support",
+  "description": "Scripts for Inboard.",
+  "version": "0.1.0",
+  "dependencies": {
+    "sqlite-to-json": "xhacker/js-sqlite-to-json",
+    "sqlite3": "~3.0.5"
+  }
+}
